@@ -1,0 +1,3 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/FabianHerrera25/hugo-git-pages-sourse.git
